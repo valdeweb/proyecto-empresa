@@ -15,11 +15,11 @@ body, h1, h2, h3, h4, h5, h6 {
 }
 
 .intro-header {
-  padding-top: 50px;
+  padding-top: 310px;
   padding-bottom: 50px;
   text-align: center;
   color: #f8f8f8;
-  background: url(../img/intro-bg.jpg) no-repeat center center;
+  background: url(../img/portada.jpg) no-repeat center center;
   background-size: cover;
 }
 
@@ -149,4 +149,6 @@ footer {
 
 p.copyright {
   margin: 15px 0 0;
+}
+.lead{
 }

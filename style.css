@@ -1,0 +1,17 @@
+#texto{
+    text-align: justify;
+}
+#texto2{
+    text-align: center;
+}
+.btn .btn-warning{
+    margin: 12px;
+    
+}
+.letra{
+    text-align: center;
+}
+.titulo{
+    color: coral;
+    text-align: left;
+}
