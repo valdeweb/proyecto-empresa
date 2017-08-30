@@ -36,3 +36,13 @@
     font-size: 20px;
     padding: 30px;
 }
+@media (min-width: 576px){
+    .hidden-sm-up{
+    
+        display: none !important;}
+}
+@media (max-width: 575px){
+    .hidden-xs-down{
+    
+        display: none !important;}
+}
